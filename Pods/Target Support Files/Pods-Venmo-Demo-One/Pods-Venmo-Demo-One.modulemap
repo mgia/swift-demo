@@ -1,0 +1,6 @@
+framework module Pods_Venmo_Demo_One {
+  umbrella header "Pods-Venmo-Demo-One-umbrella.h"
+
+  export *
+  module * { export * }
+}
